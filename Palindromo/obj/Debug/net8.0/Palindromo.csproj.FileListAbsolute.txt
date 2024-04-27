@@ -1,0 +1,14 @@
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\Palindromo\bin\Debug\net8.0\Palindromo.exe
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\Palindromo\bin\Debug\net8.0\Palindromo.deps.json
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\Palindromo\bin\Debug\net8.0\Palindromo.runtimeconfig.json
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\Palindromo\bin\Debug\net8.0\Palindromo.dll
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\Palindromo\bin\Debug\net8.0\Palindromo.pdb
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\Palindromo\obj\Debug\net8.0\Palindromo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\Palindromo\obj\Debug\net8.0\Palindromo.AssemblyInfoInputs.cache
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\Palindromo\obj\Debug\net8.0\Palindromo.AssemblyInfo.cs
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\Palindromo\obj\Debug\net8.0\Palindromo.csproj.CoreCompileInputs.cache
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\Palindromo\obj\Debug\net8.0\Palindromo.dll
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\Palindromo\obj\Debug\net8.0\refint\Palindromo.dll
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\Palindromo\obj\Debug\net8.0\Palindromo.pdb
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\Palindromo\obj\Debug\net8.0\Palindromo.genruntimeconfig.cache
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\Palindromo\obj\Debug\net8.0\ref\Palindromo.dll

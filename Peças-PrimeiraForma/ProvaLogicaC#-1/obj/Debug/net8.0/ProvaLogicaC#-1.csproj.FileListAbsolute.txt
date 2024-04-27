@@ -1,0 +1,14 @@
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\ProvaLogicaC#-1\ProvaLogicaC#-1\bin\Debug\net8.0\ProvaLogicaC#-1.exe
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\ProvaLogicaC#-1\ProvaLogicaC#-1\bin\Debug\net8.0\ProvaLogicaC#-1.deps.json
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\ProvaLogicaC#-1\ProvaLogicaC#-1\bin\Debug\net8.0\ProvaLogicaC#-1.runtimeconfig.json
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\ProvaLogicaC#-1\ProvaLogicaC#-1\bin\Debug\net8.0\ProvaLogicaC#-1.dll
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\ProvaLogicaC#-1\ProvaLogicaC#-1\bin\Debug\net8.0\ProvaLogicaC#-1.pdb
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\ProvaLogicaC#-1\ProvaLogicaC#-1\obj\Debug\net8.0\ProvaLogicaC#-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\ProvaLogicaC#-1\ProvaLogicaC#-1\obj\Debug\net8.0\ProvaLogicaC#-1.AssemblyInfoInputs.cache
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\ProvaLogicaC#-1\ProvaLogicaC#-1\obj\Debug\net8.0\ProvaLogicaC#-1.AssemblyInfo.cs
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\ProvaLogicaC#-1\ProvaLogicaC#-1\obj\Debug\net8.0\ProvaLogicaC#-1.csproj.CoreCompileInputs.cache
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\ProvaLogicaC#-1\ProvaLogicaC#-1\obj\Debug\net8.0\ProvaLogicaC#-1.dll
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\ProvaLogicaC#-1\ProvaLogicaC#-1\obj\Debug\net8.0\refint\ProvaLogicaC#-1.dll
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\ProvaLogicaC#-1\ProvaLogicaC#-1\obj\Debug\net8.0\ProvaLogicaC#-1.pdb
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\ProvaLogicaC#-1\ProvaLogicaC#-1\obj\Debug\net8.0\ProvaLogicaC#-1.genruntimeconfig.cache
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\ProvaLogicaC#-1\ProvaLogicaC#-1\obj\Debug\net8.0\ref\ProvaLogicaC#-1.dll

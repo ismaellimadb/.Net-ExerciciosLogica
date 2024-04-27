@@ -1,0 +1,14 @@
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\ImparPar\bin\Debug\net8.0\ImparPar.exe
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\ImparPar\bin\Debug\net8.0\ImparPar.deps.json
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\ImparPar\bin\Debug\net8.0\ImparPar.runtimeconfig.json
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\ImparPar\bin\Debug\net8.0\ImparPar.dll
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\ImparPar\bin\Debug\net8.0\ImparPar.pdb
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\ImparPar\obj\Debug\net8.0\ImparPar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\ImparPar\obj\Debug\net8.0\ImparPar.AssemblyInfoInputs.cache
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\ImparPar\obj\Debug\net8.0\ImparPar.AssemblyInfo.cs
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\ImparPar\obj\Debug\net8.0\ImparPar.csproj.CoreCompileInputs.cache
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\ImparPar\obj\Debug\net8.0\ImparPar.dll
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\ImparPar\obj\Debug\net8.0\refint\ImparPar.dll
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\ImparPar\obj\Debug\net8.0\ImparPar.pdb
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\ImparPar\obj\Debug\net8.0\ImparPar.genruntimeconfig.cache
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\ImparPar\obj\Debug\net8.0\ref\ImparPar.dll

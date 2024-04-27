@@ -1,0 +1,14 @@
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\Cardapio\bin\Debug\net8.0\Cardapio.exe
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\Cardapio\bin\Debug\net8.0\Cardapio.deps.json
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\Cardapio\bin\Debug\net8.0\Cardapio.runtimeconfig.json
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\Cardapio\bin\Debug\net8.0\Cardapio.dll
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\Cardapio\bin\Debug\net8.0\Cardapio.pdb
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\Cardapio\obj\Debug\net8.0\Cardapio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\Cardapio\obj\Debug\net8.0\Cardapio.AssemblyInfoInputs.cache
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\Cardapio\obj\Debug\net8.0\Cardapio.AssemblyInfo.cs
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\Cardapio\obj\Debug\net8.0\Cardapio.csproj.CoreCompileInputs.cache
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\Cardapio\obj\Debug\net8.0\Cardapio.dll
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\Cardapio\obj\Debug\net8.0\refint\Cardapio.dll
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\Cardapio\obj\Debug\net8.0\Cardapio.pdb
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\Cardapio\obj\Debug\net8.0\Cardapio.genruntimeconfig.cache
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\Cardapio\obj\Debug\net8.0\ref\Cardapio.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SaberDiaDaSemanaPorDTs/1.0.0": {
+        "runtime": {
+          "SaberDiaDaSemanaPorDTs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SaberDiaDaSemanaPorDTs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

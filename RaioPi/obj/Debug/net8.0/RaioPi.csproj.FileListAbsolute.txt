@@ -1,0 +1,14 @@
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\RaioPi\bin\Debug\net8.0\RaioPi.exe
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\RaioPi\bin\Debug\net8.0\RaioPi.deps.json
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\RaioPi\bin\Debug\net8.0\RaioPi.runtimeconfig.json
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\RaioPi\bin\Debug\net8.0\RaioPi.dll
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\RaioPi\bin\Debug\net8.0\RaioPi.pdb
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\RaioPi\obj\Debug\net8.0\RaioPi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\RaioPi\obj\Debug\net8.0\RaioPi.AssemblyInfoInputs.cache
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\RaioPi\obj\Debug\net8.0\RaioPi.AssemblyInfo.cs
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\RaioPi\obj\Debug\net8.0\RaioPi.csproj.CoreCompileInputs.cache
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\RaioPi\obj\Debug\net8.0\RaioPi.dll
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\RaioPi\obj\Debug\net8.0\refint\RaioPi.dll
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\RaioPi\obj\Debug\net8.0\RaioPi.pdb
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\RaioPi\obj\Debug\net8.0\RaioPi.genruntimeconfig.cache
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\RaioPi\obj\Debug\net8.0\ref\RaioPi.dll

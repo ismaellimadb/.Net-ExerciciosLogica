@@ -1,0 +1,14 @@
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\ValorMaisAlto\bin\Debug\net8.0\ValorMaisAlto.exe
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\ValorMaisAlto\bin\Debug\net8.0\ValorMaisAlto.deps.json
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\ValorMaisAlto\bin\Debug\net8.0\ValorMaisAlto.runtimeconfig.json
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\ValorMaisAlto\bin\Debug\net8.0\ValorMaisAlto.dll
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\ValorMaisAlto\bin\Debug\net8.0\ValorMaisAlto.pdb
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\ValorMaisAlto\obj\Debug\net8.0\ValorMaisAlto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\ValorMaisAlto\obj\Debug\net8.0\ValorMaisAlto.AssemblyInfoInputs.cache
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\ValorMaisAlto\obj\Debug\net8.0\ValorMaisAlto.AssemblyInfo.cs
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\ValorMaisAlto\obj\Debug\net8.0\ValorMaisAlto.csproj.CoreCompileInputs.cache
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\ValorMaisAlto\obj\Debug\net8.0\ValorMaisAlto.dll
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\ValorMaisAlto\obj\Debug\net8.0\refint\ValorMaisAlto.dll
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\ValorMaisAlto\obj\Debug\net8.0\ValorMaisAlto.pdb
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\ValorMaisAlto\obj\Debug\net8.0\ValorMaisAlto.genruntimeconfig.cache
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\ValorMaisAlto\obj\Debug\net8.0\ref\ValorMaisAlto.dll

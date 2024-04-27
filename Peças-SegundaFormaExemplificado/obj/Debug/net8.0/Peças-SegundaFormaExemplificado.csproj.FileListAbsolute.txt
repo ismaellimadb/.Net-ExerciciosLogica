@@ -1,0 +1,14 @@
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\Peças-SegundaFormaExemplificado\bin\Debug\net8.0\Peças-SegundaFormaExemplificado.exe
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\Peças-SegundaFormaExemplificado\bin\Debug\net8.0\Peças-SegundaFormaExemplificado.deps.json
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\Peças-SegundaFormaExemplificado\bin\Debug\net8.0\Peças-SegundaFormaExemplificado.runtimeconfig.json
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\Peças-SegundaFormaExemplificado\bin\Debug\net8.0\Peças-SegundaFormaExemplificado.dll
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\Peças-SegundaFormaExemplificado\bin\Debug\net8.0\Peças-SegundaFormaExemplificado.pdb
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\Peças-SegundaFormaExemplificado\obj\Debug\net8.0\Peças-SegundaFormaExemplificado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\Peças-SegundaFormaExemplificado\obj\Debug\net8.0\Peças-SegundaFormaExemplificado.AssemblyInfoInputs.cache
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\Peças-SegundaFormaExemplificado\obj\Debug\net8.0\Peças-SegundaFormaExemplificado.AssemblyInfo.cs
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\Peças-SegundaFormaExemplificado\obj\Debug\net8.0\Peças-SegundaFormaExemplificado.csproj.CoreCompileInputs.cache
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\Peças-SegundaFormaExemplificado\obj\Debug\net8.0\Peças-SegundaFormaExemplificado.dll
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\Peças-SegundaFormaExemplificado\obj\Debug\net8.0\refint\Peças-SegundaFormaExemplificado.dll
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\Peças-SegundaFormaExemplificado\obj\Debug\net8.0\Peças-SegundaFormaExemplificado.pdb
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\Peças-SegundaFormaExemplificado\obj\Debug\net8.0\Peças-SegundaFormaExemplificado.genruntimeconfig.cache
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\Peças-SegundaFormaExemplificado\obj\Debug\net8.0\ref\Peças-SegundaFormaExemplificado.dll

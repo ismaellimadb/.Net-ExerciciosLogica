@@ -1,0 +1,14 @@
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\SaberDiaDaSemanaPorDTs\bin\Debug\net8.0\SaberDiaDaSemanaPorDTs.exe
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\SaberDiaDaSemanaPorDTs\bin\Debug\net8.0\SaberDiaDaSemanaPorDTs.deps.json
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\SaberDiaDaSemanaPorDTs\bin\Debug\net8.0\SaberDiaDaSemanaPorDTs.runtimeconfig.json
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\SaberDiaDaSemanaPorDTs\bin\Debug\net8.0\SaberDiaDaSemanaPorDTs.dll
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\SaberDiaDaSemanaPorDTs\bin\Debug\net8.0\SaberDiaDaSemanaPorDTs.pdb
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\SaberDiaDaSemanaPorDTs\obj\Debug\net8.0\SaberDiaDaSemanaPorDTs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\SaberDiaDaSemanaPorDTs\obj\Debug\net8.0\SaberDiaDaSemanaPorDTs.AssemblyInfoInputs.cache
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\SaberDiaDaSemanaPorDTs\obj\Debug\net8.0\SaberDiaDaSemanaPorDTs.AssemblyInfo.cs
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\SaberDiaDaSemanaPorDTs\obj\Debug\net8.0\SaberDiaDaSemanaPorDTs.csproj.CoreCompileInputs.cache
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\SaberDiaDaSemanaPorDTs\obj\Debug\net8.0\SaberDiaDaSemanaPorDTs.dll
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\SaberDiaDaSemanaPorDTs\obj\Debug\net8.0\refint\SaberDiaDaSemanaPorDTs.dll
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\SaberDiaDaSemanaPorDTs\obj\Debug\net8.0\SaberDiaDaSemanaPorDTs.pdb
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\SaberDiaDaSemanaPorDTs\obj\Debug\net8.0\SaberDiaDaSemanaPorDTs.genruntimeconfig.cache
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\SaberDiaDaSemanaPorDTs\obj\Debug\net8.0\ref\SaberDiaDaSemanaPorDTs.dll
