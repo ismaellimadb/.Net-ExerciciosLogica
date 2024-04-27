@@ -1,0 +1,15 @@
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\SequenciaMultiplicatoria\bin\Debug\net8.0\SequenciaMultiplicatoria.exe
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\SequenciaMultiplicatoria\bin\Debug\net8.0\SequenciaMultiplicatoria.deps.json
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\SequenciaMultiplicatoria\bin\Debug\net8.0\SequenciaMultiplicatoria.runtimeconfig.json
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\SequenciaMultiplicatoria\bin\Debug\net8.0\SequenciaMultiplicatoria.dll
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\SequenciaMultiplicatoria\bin\Debug\net8.0\SequenciaMultiplicatoria.pdb
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\SequenciaMultiplicatoria\obj\Debug\net8.0\SequenciaMultiplicatoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\SequenciaMultiplicatoria\obj\Debug\net8.0\SequenciaMultiplicatoria.AssemblyInfoInputs.cache
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\SequenciaMultiplicatoria\obj\Debug\net8.0\SequenciaMultiplicatoria.AssemblyInfo.cs
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\SequenciaMultiplicatoria\obj\Debug\net8.0\SequenciaMultiplicatoria.csproj.CoreCompileInputs.cache
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\SequenciaMultiplicatoria\obj\Debug\net8.0\SequenciaMultiplicatoria.sourcelink.json
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\SequenciaMultiplicatoria\obj\Debug\net8.0\SequenciaMultiplicatoria.dll
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\SequenciaMultiplicatoria\obj\Debug\net8.0\refint\SequenciaMultiplicatoria.dll
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\SequenciaMultiplicatoria\obj\Debug\net8.0\SequenciaMultiplicatoria.pdb
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\SequenciaMultiplicatoria\obj\Debug\net8.0\SequenciaMultiplicatoria.genruntimeconfig.cache
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\C#-ExerciciosLogica\SequenciaMultiplicatoria\obj\Debug\net8.0\ref\SequenciaMultiplicatoria.dll
