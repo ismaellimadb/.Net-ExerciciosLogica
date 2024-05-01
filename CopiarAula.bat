@@ -13,7 +13,7 @@ mkdir "!data!!hora!"
 rem Navegar para o diretório criado
 cd "!data!!hora!"
 
-copy C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\AcompanharVidAula\AcompanharVidAula\Program.cs
+rem Copiar a pasta inteira
+xcopy /s /e /i "C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\AcompanharVidAula\" ".\"
 
 endlocal
-
