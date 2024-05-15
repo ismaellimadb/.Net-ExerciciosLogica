@@ -1,0 +1,14 @@
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\AcompanharVidAula\AcompanharVidAula\bin\Debug\net8.0\AcompanharVidAula.exe
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\AcompanharVidAula\AcompanharVidAula\bin\Debug\net8.0\AcompanharVidAula.deps.json
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\AcompanharVidAula\AcompanharVidAula\bin\Debug\net8.0\AcompanharVidAula.runtimeconfig.json
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\AcompanharVidAula\AcompanharVidAula\bin\Debug\net8.0\AcompanharVidAula.dll
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\AcompanharVidAula\AcompanharVidAula\bin\Debug\net8.0\AcompanharVidAula.pdb
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\AcompanharVidAula\AcompanharVidAula\obj\Debug\net8.0\AcompanharVidAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\AcompanharVidAula\AcompanharVidAula\obj\Debug\net8.0\AcompanharVidAula.AssemblyInfoInputs.cache
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\AcompanharVidAula\AcompanharVidAula\obj\Debug\net8.0\AcompanharVidAula.AssemblyInfo.cs
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\AcompanharVidAula\AcompanharVidAula\obj\Debug\net8.0\AcompanharVidAula.csproj.CoreCompileInputs.cache
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\AcompanharVidAula\AcompanharVidAula\obj\Debug\net8.0\AcompanharVidAula.dll
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\AcompanharVidAula\AcompanharVidAula\obj\Debug\net8.0\refint\AcompanharVidAula.dll
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\AcompanharVidAula\AcompanharVidAula\obj\Debug\net8.0\AcompanharVidAula.pdb
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\AcompanharVidAula\AcompanharVidAula\obj\Debug\net8.0\AcompanharVidAula.genruntimeconfig.cache
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\AcompanharVidAula\AcompanharVidAula\obj\Debug\net8.0\ref\AcompanharVidAula.dll
