@@ -14,7 +14,7 @@ namespace Course
 
 			//operadores aritimeticos/atribuição
 			int c = 10;
-			int d = ++c; //primeiro soma valor depois incrementa
+			int d = ++c; //primeiro incrementa
 			Console.WriteLine(c);
 			Console.WriteLine(d);
 		}
