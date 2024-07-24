@@ -14,6 +14,6 @@ rem Navegar para o diretório criado
 cd "!data!!hora!"
 
 rem Copiar a pasta inteira
-xcopy /s /e /i "C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\AcompanharVidAula\" ".\AnotacoesAula"
+xcopy /s /e /i "C:\Users\imlbl\OneDrive\Desktop\GitRepos\Curso-C#\AcompanharVidAula\" ".\"
 
 endlocal
