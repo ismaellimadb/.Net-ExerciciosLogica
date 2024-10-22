@@ -9,6 +9,7 @@ namespace AcompanharVidAula
 	internal class Pessoa
 	{
 		public int Idade;
+		
 		public string Nome;
 	}
 }
